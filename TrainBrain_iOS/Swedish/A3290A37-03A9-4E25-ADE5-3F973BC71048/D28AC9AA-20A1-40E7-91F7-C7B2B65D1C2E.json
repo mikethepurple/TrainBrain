@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D28AC9AA-20A1-40E7-91F7-C7B2B65D1C2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11152A31-BF37-4F39-B527-CC0E58E55825",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7765FBAB-EA66-4596-8413-801584F8BA3E",
+    "height": 155,
+    "width": 375,
+    "x": 4,
+    "y": 232
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Compact Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AA8A2C7-CE3F-4BA3-B834-CF06C4B47CAE",
+      "overrideName": "758B0F66-C500-424D-A7BE-F8B84197FEEF_stringValue",
+      "value": "Gå av i Husby (7 stationer, 15:36)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "089DBD0E-378D-4686-A21B-98ACC9C2F5F0",
+      "overrideName": "A449915C-AF53-4B36-9C37-BE764EFB201E_stringValue",
+      "value": "Gå till hållplatsläge P, ta buss 514 mot Häggviks Handelsplats (15:45)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBFE42F8-CEA2-4935-B841-EA8B70B15DC3",
+      "overrideName": "3740EB9C-5D11-4588-B85A-CE2EFB556D91_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/80b98e839c8a07292e8d014a59dd7becbb4345bf.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50FE9D7B-5CF7-4F3C-84BA-2C3A2F9BBF04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CBD1A82-889A-41E0-A1E5-5CEAFA50DD0D",
+  "verticalSpacing": 0
+}

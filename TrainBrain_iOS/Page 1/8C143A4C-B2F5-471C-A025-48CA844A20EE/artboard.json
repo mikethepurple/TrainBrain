@@ -1,0 +1,91 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FFBF9BBF-B188-4140-8CF1-79C05E9AE720",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "8C143A4C-B2F5-471C-A025-48CA844A20EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E18042E-D1CC-4424-99CE-92E29D6534E1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BA2A222-BB05-4C3A-9820-1F0D94C1F0E1",
+    "height": 812,
+    "width": 375,
+    "x": 4542,
+    "y": 758
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24C46774-9C6F-42C6-888C-665784E68E12",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "929F6704-5159-4BF9-9C7F-F7CA0CBE52C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E192257-D81D-467E-81EC-AFE0410B0756"
+    }
+  ],
+  "name": "14",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11FF8A02-DABD-4A46-B5D5-50CDD964F418",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32CB8707-FF7B-4753-9566-A7E344C44734",
+    "guides": [
+    ]
+  }
+}

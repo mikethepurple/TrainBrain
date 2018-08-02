@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8334CD82-41DC-455E-953F-5EC5E64485FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21A18723-724C-41D2-A8BE-88A5D0855DE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F73115E8-F06A-478C-B5B9-23CC48EACF72",
+    "height": 199,
+    "width": 375,
+    "x": 0,
+    "y": 232
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Compact",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AA8A2C7-CE3F-4BA3-B834-CF06C4B47CAE",
+      "overrideName": "758B0F66-C500-424D-A7BE-F8B84197FEEF_stringValue",
+      "value": "Major delays on your way home!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11BB6E8F-32BA-4BAE-9C9A-94916BCE75D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CBD1A82-889A-41E0-A1E5-5CEAFA50DD0D",
+  "verticalSpacing": 0
+}

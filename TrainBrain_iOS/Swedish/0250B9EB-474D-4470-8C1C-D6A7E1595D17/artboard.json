@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8790007829666138,
+    "do_objectID": "9E51EBE2-9084-4166-863F-7293D9A3ECBB",
+    "green": 0.06114692240953445,
+    "red": 0.7398750185966492
+  },
+  "booleanOperation": 0,
+  "do_objectID": "0250B9EB-474D-4470-8C1C-D6A7E1595D17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CC4053D-1DB3-4291-9F68-90DCFC1702C4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14CD9F35-7CEB-4DDD-A636-0CC1900F8EF7",
+    "height": 812,
+    "width": 375,
+    "x": -605,
+    "y": 758
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6787B9B9-962B-43A2-91D4-0FA32CDB9BA3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F8C92BC5-11F6-430C-998D-72C534BADF9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1882CBBA-6963-4F6F-94B3-D63C94AE381F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E2908DF-4E6C-43D1-BC9D-774A0D56D381"
+    },
+    {
+      "class": "group",
+      "id": "8657FDDD-15FE-4B62-83BC-376B0A1C44BA"
+    }
+  ],
+  "name": "3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CE1B73E-63A8-483A-A9D2-1F1185405DAC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F48D477B-AF27-41BA-9B97-92604D25E059",
+    "guides": [
+    ]
+  }
+}

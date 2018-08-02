@@ -1,0 +1,91 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ECF84F53-7ED2-4AE2-8E24-A9B68BF0C7E9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "02A9CDDA-7FC1-4605-9400-212D9160C400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9A2C887-CC5F-49A6-8DEC-7714B60E319C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E683439-BFEE-4D39-8856-BB4460730A5E",
+    "height": 812,
+    "width": 375,
+    "x": 831,
+    "y": 758
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F5A218E-D737-4D6B-BABF-73EE73495524",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C5A4E2E4-7563-4F6D-B637-0EFD892508BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97ABC354-52BF-435B-98C2-0496C7AEA269"
+    }
+  ],
+  "name": "6",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A4C869B-C9F5-44E6-BA4A-57048ECAAF37",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C0F6D3EB-FFBC-4103-AC6D-D6B0E64492AF",
+    "guides": [
+    ]
+  }
+}

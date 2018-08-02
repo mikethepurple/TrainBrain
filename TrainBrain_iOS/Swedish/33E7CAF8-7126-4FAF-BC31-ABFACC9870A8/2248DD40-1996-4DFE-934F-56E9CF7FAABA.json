@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2248DD40-1996-4DFE-934F-56E9CF7FAABA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84EF64E2-501B-493B-8D71-7C9D1A9E5CB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "09AB87E1-8ADA-43E5-B6F0-54B1A0FB276F",
+    "height": 840,
+    "width": 388,
+    "x": -3,
+    "y": -14
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/77249b03018ca73fce2a4cf7d8e6a3f1e7023f17.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lock Screen Blurred Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C396B967-836C-4985-8CE2-718A4C4C7640",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

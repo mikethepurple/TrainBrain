@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "F693CBFC-1A46-4CFF-8357-694B00B79AAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0242673F-9DAE-4D4B-84A1-D6AC509F3F80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE916C70-D334-4D03-A02F-D74E98206126",
+    "height": 40,
+    "width": 40,
+    "x": 20,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3345D981-71CA-48FD-AECB-E868AE19C85C"
+    }
+  ],
+  "name": "Tunnelbana icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7A769E4-804C-41A7-B9CD-69DFC6E52A50",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

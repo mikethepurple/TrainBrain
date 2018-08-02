@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8790007829666138,
+    "do_objectID": "CB8B48D5-2249-49AC-9D7B-C6A11A317F9B",
+    "green": 0.06114692240953445,
+    "red": 0.7398750185966492
+  },
+  "booleanOperation": 0,
+  "do_objectID": "AF9B6184-4820-4680-8CC8-3CFF5AB16768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2B049D4-75E4-4A28-9EF6-66D0512D5CD2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61C82728-A32E-43BB-B327-E69DD56A4E8E",
+    "height": 812,
+    "width": 375,
+    "x": -605,
+    "y": 758
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FEF7C1F-025C-4F6E-91AF-EC4BE48B08B7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C26DEA14-DBAA-4EB8-9251-D2505173B234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AA039B9-E688-4651-A677-CECEF60E426E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF244DB3-3B7D-4DD3-B76F-4A8E8138B4C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC3EF8B5-C97A-432E-A40A-46746FD9B2B5"
+    }
+  ],
+  "name": "3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2092B5DB-6D89-4583-A75B-379976628226",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "322427C1-9A3C-4E77-9070-428BF5B808DF",
+    "guides": [
+    ]
+  }
+}

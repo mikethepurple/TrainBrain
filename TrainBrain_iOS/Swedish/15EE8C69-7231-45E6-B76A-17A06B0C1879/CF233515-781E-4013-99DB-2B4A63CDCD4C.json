@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CF233515-781E-4013-99DB-2B4A63CDCD4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82581807-5096-4999-B16E-E422A17AA599",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2DD1A98-A231-494B-8582-5789D639D256",
+    "height": 159,
+    "width": 371,
+    "x": 4,
+    "y": 232
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Compact Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08F5D211-3414-4E34-A1D5-05F3BD8AD6E7",
+      "overrideName": "AF757C08-E35F-4818-B396-ABD912C7E374_stringValue",
+      "value": "Byt vid Fridhemsplan till blåa linjen mot Akalla (15:19)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CD760D7-A85E-49C0-B783-F13622625DAB",
+      "overrideName": "15C67CEB-D75C-494A-B926-850B26A909A6_stringValue",
+      "value": "Ta gröna linjen mot Åkeshov  (3 stationer, 15:10)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0B6D6D3-CF54-4565-A747-478DC15BB260",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "210C7585-E8A4-482B-96CC-3BF3B6C295EF",
+  "verticalSpacing": 0
+}

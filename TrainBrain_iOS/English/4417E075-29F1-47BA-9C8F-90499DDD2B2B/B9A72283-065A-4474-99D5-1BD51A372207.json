@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B9A72283-065A-4474-99D5-1BD51A372207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB862A9D-500E-4DB5-927C-139C1D6E6E0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CE4D0AE-B08A-4205-95D9-184CEA47277C",
+    "height": 570,
+    "width": 375,
+    "x": 1,
+    "y": 78
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Expanded Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "06E369C7-51E0-4C93-9753-1940C7A463D8",
+      "overrideName": "C5B278D4-AD15-4A25-B564-38AFE1B0641F_stringValue",
+      "value": "Suggested new route"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "244D23E6-FF67-4BEF-BE07-B13DE194F679",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AECEF00A-7A6C-4F11-9643-6A30C01B27E3",
+  "verticalSpacing": 0
+}

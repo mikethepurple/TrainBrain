@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "F221AAA8-50A4-49A1-9513-20910B579FAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "201D06B8-A8CD-42A5-8035-3F5AE5D52DBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BD402CE-EC01-4561-9AE0-B9326AD1EBB5",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08938DE7-AB69-4BB3-BF52-62F9025E7D64"
+    },
+    {
+      "class": "bitmap",
+      "id": "9110441F-9A73-4B4A-9DE3-7DFC1ABDAB3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AADD4CE-CB07-45B3-9F50-E21304CCE573"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "205A298E-6866-42C4-8F79-3DD72B149BA2"
+    },
+    {
+      "class": "group",
+      "id": "469294FA-38E2-4402-827D-5DB28F1E6411"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FE84F40-110E-4F41-BE10-34D0ABA39819"
+    },
+    {
+      "class": "bitmap",
+      "id": "2580E4F1-18C0-46BE-8FA2-738F8FF4EB89"
+    }
+  ],
+  "name": "Third guide with map Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A791315-1CBD-447A-AE6E-F26C2D19F7FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

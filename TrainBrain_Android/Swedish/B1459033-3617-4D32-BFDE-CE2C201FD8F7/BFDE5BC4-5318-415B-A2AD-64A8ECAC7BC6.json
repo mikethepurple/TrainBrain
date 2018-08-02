@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BFDE5BC4-5318-415B-A2AD-64A8ECAC7BC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2ECE7E1-E88B-4894-94CC-95F1037DFBFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A226AC09-5CF7-4CF9-9935-E3E182CDCBB9",
+    "height": 710,
+    "width": 400,
+    "x": -5,
+    "y": -94
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ded7ea882564a0ba5d1d9c4c2771b27baa66777c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wallpaper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7A01E12-F5D5-4DB0-9170-86FE3288E121",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

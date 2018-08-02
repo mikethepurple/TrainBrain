@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "97ABC354-52BF-435B-98C2-0496C7AEA269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69791621-85FD-4EDE-8049-9A1216DD9C53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5593491-045D-4F6E-B0E4-40590367B29D",
+    "height": 493,
+    "width": 375,
+    "x": 0,
+    "y": 119
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Expanded Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B008EBC4-3757-4D0B-8326-C3684A7153C6",
+      "overrideName": "021F9EF4-EBF5-4424-A1B7-CD9533555438_stringValue",
+      "value": "Go to Rådmansgatan subway station.  👆 to see the map"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1E211FE-FAD7-4C4C-BE7C-AFBF2EC715AC",
+      "overrideName": "D8F560CF-9355-4669-A96F-67F5E2B95BE8_stringValue",
+      "value": "Leave in 7 minutes (15:02)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B098786-CE1D-4FF3-B060-DB7876F6BAF2",
+      "overrideName": "256042E2-54CC-44A3-91AF-DD93829285CD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2fc8b8b4f989ba958f8c69bc03145a394f1e0b7d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "783CC9CD-C94B-4D2A-8297-E339C5B51704",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23E76DE7-41BC-4A86-B09E-93ADF17642D9",
+  "verticalSpacing": 0
+}

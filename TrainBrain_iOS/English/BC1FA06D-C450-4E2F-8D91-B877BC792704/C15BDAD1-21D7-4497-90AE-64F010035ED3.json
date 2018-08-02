@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C15BDAD1-21D7-4497-90AE-64F010035ED3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9ABF6DC6-15A7-4960-8AE9-D02D552A680B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C9D332A-84F9-4DE9-BBA0-0B158CE91E32",
+    "height": 473,
+    "width": 375,
+    "x": 0,
+    "y": 119
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Expanded Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96ACAE72-AEA8-43EE-A651-41F4F436E5A5",
+      "overrideName": "7738E43A-30B0-4363-9498-276335D1C1A8_stringValue",
+      "value": "Get off at Husby (7 stops, 15:36)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BA54760-3E1C-49D0-AEC7-09A7979386C7",
+      "overrideName": "CBF1A7D3-7868-4C71-9292-924E27A870A9_stringValue",
+      "value": "Walk to bus stip poont P, take the bus 514 towards Häggviks Handelsplats (15:45)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1C1AEF1-62C2-4A84-A1F4-7DF495DEC367",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F734CCE2-449E-4356-8010-FC256B7D54DF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "0E2908DF-4E6C-43D1-BC9D-774A0D56D381",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90F3EBD2-317A-4BF0-B335-C1F5DC5C86A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1259F931-08E3-423A-83BE-A4DC4D07A55F",
+    "height": 60,
+    "width": 375,
+    "x": 1,
+    "y": 648
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Expanded Option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE5055A0-5EB4-475F-95C3-C7B4798D322E_symbolID",
+      "value": "F3341EED-2677-446A-BFEF-A0F2C8836E0E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48903A21-E252-4541-B12E-B17D15EA155F",
+      "overrideName": "F453FE8D-4ADF-48FD-807C-FA3A8929CA81_stringValue",
+      "value": "Ta en ny resväg"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AF730C3-E6D2-4BDF-BD77-9C50F9A34CA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "70F8822D-A066-453E-B0BE-7DD4129F252E",
+  "verticalSpacing": 0
+}

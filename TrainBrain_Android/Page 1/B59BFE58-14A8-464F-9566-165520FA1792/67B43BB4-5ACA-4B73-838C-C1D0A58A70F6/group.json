@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "67B43BB4-5ACA-4B73-838C-C1D0A58A70F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C80D30AE-B0CA-4EB0-983F-0A58D2AA8077"
+    },
+    {
+      "class": "bitmap",
+      "id": "5C701EF3-F628-4870-A8BF-905F1FC6A165"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C0DB2A2-B0E8-4162-BDE1-D5897A4FE322"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8FFD201-73AE-4FDF-9258-9C6F9DA5D3B8"
+    },
+    {
+      "class": "group",
+      "id": "818B9687-EBA4-4EEB-AE26-1B70CF4C45B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85F8FF64-2116-4FE7-BBB0-76B1C3404F7D"
+    },
+    {
+      "class": "bitmap",
+      "id": "F5ED2507-6940-4AAA-ACD4-E11F95453608"
+    }
+  ],
+  "name": "Third guide with map Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

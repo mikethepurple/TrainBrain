@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0071D1E4-F5BE-45F4-887D-C756FC7CB184",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9A4B851D-8231-463C-9E73-52392AF592C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6D4FB84-9AC3-4D32-B806-C1D52B5055D9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2ACD500E-9BD8-4408-A409-22F8AC2B6020",
+    "height": 640,
+    "width": 360,
+    "x": 559,
+    "y": 1066
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "89EC8B41-13ED-4FF9-896B-DF71E7233626",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7F188C36-9DA0-4E12-9386-9D9814329C13"
+    }
+  ],
+  "name": "First guide with map",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2B86E70-8D5E-4509-BE66-972FC337825F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EA12F3F0-FA45-449B-87F4-EE710FB47866",
+    "guides": [
+    ]
+  }
+}

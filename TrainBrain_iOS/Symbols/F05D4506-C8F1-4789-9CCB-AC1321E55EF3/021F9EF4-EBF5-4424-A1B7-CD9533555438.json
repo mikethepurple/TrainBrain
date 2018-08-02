@@ -1,0 +1,84 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFUIDisplay-Regular",
+              "size": 16
+            }
+          }
+        },
+        "length": 142,
+        "location": 0
+      }
+    ],
+    "string": "A train has broken down between Slussen and Medborgarplatsen, delays up to one hour. Do you accept your new calculated route to Gullmarsplan? "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "021F9EF4-EBF5-4424-A1B7-CD9533555438",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBE36E59-FB5B-4831-B8B0-D1E9FDEF36C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0917358-419F-4B8A-85A2-84834A0F6822",
+    "height": 84,
+    "width": 330,
+    "x": 23,
+    "y": 422
+  },
+  "glyphBounds": "{{0, 3}, {325, 72}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Body",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1482EF29-736C-4F58-BB4D-599006D9C286",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "89659D2E-101C-49E0-9BE6-753BAFEC328B",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "5EAE3483-1793-4312-BC3F-D54988A05692",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFUIDisplay-Regular",
+            "size": 16
+          }
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

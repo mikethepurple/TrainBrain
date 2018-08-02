@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F9107714-A637-46A9-8ADB-0B6980EA85BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61B3045C-EFF1-4E2D-BAAE-486DFB24B936",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40484F19-07E0-491E-B0F4-64386752B348",
+    "height": 142,
+    "width": 375,
+    "x": 4,
+    "y": 232
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Notification/Compact",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AA8A2C7-CE3F-4BA3-B834-CF06C4B47CAE",
+      "overrideName": "758B0F66-C500-424D-A7BE-F8B84197FEEF_stringValue",
+      "value": "Gå om 7 minuter (15:02)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "089DBD0E-378D-4686-A21B-98ACC9C2F5F0",
+      "overrideName": "A449915C-AF53-4B36-9C37-BE764EFB201E_stringValue",
+      "value": "Gå till T-banestation Rådmansgatan  👆 för att öppna i kartan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAAFD5B6-075D-4BC1-9FD0-A3ACDB3752CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CBD1A82-889A-41E0-A1E5-5CEAFA50DD0D",
+  "verticalSpacing": 0
+}

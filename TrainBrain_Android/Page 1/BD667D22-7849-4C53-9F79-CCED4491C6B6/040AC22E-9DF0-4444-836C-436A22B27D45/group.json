@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "040AC22E-9DF0-4444-836C-436A22B27D45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3827ED24-2085-45AC-A2BA-AFAC7D6F4FCB"
+    },
+    {
+      "class": "bitmap",
+      "id": "B5A33AB8-EB66-4BC0-9BB3-1615050B6A34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "857A0445-05D0-4075-AC46-138315A858F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D12E293-EF18-4372-B5E1-C24CA2244C90"
+    },
+    {
+      "class": "group",
+      "id": "AD011E5D-ED62-450B-B969-279325FF6CB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB7FD75E-8618-417C-B4D4-9A4BBD0B7AD5"
+    }
+  ],
+  "name": "First guide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

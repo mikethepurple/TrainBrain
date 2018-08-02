@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "14656030-2CF9-413B-90CF-1EF0E5473D6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBB95961-AEBA-49EC-B57A-2E28E3C139B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "934CB64E-B24A-48B2-9B26-6C54CDC342A2",
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "status bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "508BBE25-2767-49D4-BBCD-2A014476F69B",
+      "overrideName": "A75B0348-8187-4FCD-A2F4-84DD580D2517/46D016E9-98BA-49A2-8652-8428866CAE32_stringValue",
+      "value": "8:08"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EFA5D603-2B4A-4685-86D0-99934270E67F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F9461A6-7F74-49A4-B80F-F16B0DA43070",
+  "verticalSpacing": 0
+}

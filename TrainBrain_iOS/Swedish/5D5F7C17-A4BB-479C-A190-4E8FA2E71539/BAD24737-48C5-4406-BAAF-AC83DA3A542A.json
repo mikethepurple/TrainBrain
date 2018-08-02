@@ -1,0 +1,82 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BAD24737-48C5-4406-BAAF-AC83DA3A542A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4A90215-07DB-4397-828F-26FD20EF0898",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B63152C3-DC42-40EE-97D8-6D122BC5413E",
+    "height": 976,
+    "width": 491,
+    "x": 185,
+    "y": 50
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c6d8636e000cf2fcfb05216a067680a44c6c7ae6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone X",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40CA3605-77AB-47BF-BE02-F94ECBA09219",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 4970,
+            "enabled": 1,
+            "modelID": "constraint_baa77482-8376-4d6e-a8ae-307b042b9986",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 2499
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8457cef2-f0aa-47dd-83fc-6c58ba107e25",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

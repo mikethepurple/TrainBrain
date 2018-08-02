@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "B250E19B-53B5-4228-96C7-248E938D127D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "310C5F4B-51A0-4159-9EEB-7093339F024A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49EBEF2E-9103-4D83-ABF6-076957009029",
+    "height": 40,
+    "width": 40,
+    "x": 20,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E06BA9D7-0915-4A24-BE14-828EC1A120E6"
+    }
+  ],
+  "name": "Bus icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A17B6A1-C1D1-4E54-8591-A3C3133528CA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

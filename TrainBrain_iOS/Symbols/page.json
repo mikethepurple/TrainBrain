@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "E33B2FC6-766B-4D5B-A565-112C5C904294",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "6B43F710-39C1-4997-943A-400CC3DB0F51"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2E941703-47EB-45ED-9B43-B7D3FDB9CC3A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "917EA4AE-2C19-4ABE-8852-BD5E3166DDA2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DBB9EBC6-0ECD-42CD-8934-4E00F31B2CA3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "64A512F6-E0F5-498D-9DC6-54DA2A30760F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4DFA6B26-8761-4794-A346-D7434E2124DF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F05D4506-C8F1-4789-9CCB-AC1321E55EF3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9885923A-3FDF-4A6F-9F25-97A462CA762E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "12946889-BD61-498F-B777-AAE6E720A95C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C0F1C4A2-CA5F-4783-A2C0-51AA8801119D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2D8C53A1-07F2-41C5-AF8D-99837981D29D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4D83B6B4-03EC-4C78-A6AB-BDE53435A113"
+    },
+    {
+      "class": "group",
+      "id": "7E4524AE-8D2A-4035-83C8-4761F31A92B6"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
